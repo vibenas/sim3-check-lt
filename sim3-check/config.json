@@ -1,0 +1,22 @@
+{
+    "featureActivation":
+      {
+      "showMembership": true,
+      "comparison": true,
+      "radar": true,
+      "resultTable": true,
+      "resultTableExport": true,
+      "openActions": true,
+      "openActionsExport": true,
+      "radarPowered": true
+    },
+    "logoURL": "opencsirt_logo.png",
+    "faviconURL": "",
+    "languages": [
+        {"name": "English", "abbr": "en-gb", "doc": "en-gb.json" },
+        {"name": "Azerbaijani", "abbr": "az-az", "doc": "az-az.json" },
+        {"name": "Deutsch", "abbr": "de-de", "doc": "de-de.json" },
+        {"name": "Vietnamese", "abbr": "vi-vi", "doc": "vi-vi.json" }
+    ]
+}
+
